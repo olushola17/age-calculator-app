@@ -15,7 +15,7 @@ const dayResult = document.getElementById("day-result");
 //   validateDate();
 // });
 
-calculatorForm.addEventListener("submit", e => {
+calculatorForm.addEventListener("input", e => {
   e.preventDefault();
 
   validateInputs();

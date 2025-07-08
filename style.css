@@ -225,6 +225,8 @@ body {
     padding: 10px 13px;
     cursor: pointer;
     transition: background 0.3s ease;
+    color: #fff;
+    font-size: 1rem;
   }
   
   #calculator-btn:hover {
